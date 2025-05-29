@@ -6,16 +6,16 @@ import { useRouter } from "next/navigation";
 
 const team = [
   {
-    name: "Alice Johnson",
+    name: "Farhan Ali Reza",
     role: "Frontend Developer",
-    github: "#",
+    github: "https://github.com/soumodip-esc",
     linkedin: "#",
-    image: "/alice.jpg", // replace with actual image or keep null
+    image: null,
   },
   {
-    name: "Bob Smith",
+    name: "Soumodip Mondal",
     role: "Backend Developer",
-    github: "#",
+    github: "https://github.com/oopsvincent",
     linkedin: "#",
     image: null,
   },

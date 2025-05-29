@@ -127,7 +127,7 @@ export default function HomePage() {
       >
         <h4 className="text-xl font-bold text-white mb-4">What People Say</h4>
         <blockquote className="border-l-4 border-blue-500 pl-4 italic text-gray-400">
-          “The Code Breakers blew my mind with their seamless design and unique concepts. Can't wait to see what they build next!” — A Fan
+          “The Code Breakers blew my mind with their seamless design and unique concepts. Can&apos;t wait to see what they build next!” — A Fan
         </blockquote>
       </motion.div>
 

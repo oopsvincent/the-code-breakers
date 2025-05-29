@@ -1,6 +1,5 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { useEffect, useState } from 'react'
 
 export const metadata: Metadata = {
   title: 'The Code Breakers',
